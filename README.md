@@ -3,4 +3,6 @@
 
  <h2>Project link</h2>
  https://my-e-commerce-project.netlify.app/
+ https://gouravgodla.github.io/e-commerce-project/
+ 
  
