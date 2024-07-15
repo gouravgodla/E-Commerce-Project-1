@@ -1,4 +1,4 @@
-# e-commerce-project
+# E-Commerce-Project-1
 
 
  <h2>Project link</h2>
