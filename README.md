@@ -23,5 +23,5 @@ Frontend: HTML, CSS, JavaScript, React (or another JS framework)
  <br>
  https://gouravgodla.github.io/E-Commerce-Project-1/
  
- 
+ # Feel free to contact me 
  
